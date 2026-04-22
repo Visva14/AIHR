@@ -19,6 +19,9 @@ frontend/.env.local
 tsconfig.tsbuildinfo
 .cache/
 
+# Claude Code
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db

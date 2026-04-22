@@ -1,0 +1,24 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Env
+backend/.env
+frontend/.env.local
+.env.local
+.env
+
+# Build / cache
+tsconfig.tsbuildinfo
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
